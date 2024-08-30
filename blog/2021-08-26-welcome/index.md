@@ -1,6 +1,6 @@
 ---
 slug: 2021-08-26-welcome
-title: 2021/08/26 Welcome
+title: 26/08/21 Welcome
 authors: [slorber, yangshun]
 tags: [facebook, hello, docusaurus]
 ---
